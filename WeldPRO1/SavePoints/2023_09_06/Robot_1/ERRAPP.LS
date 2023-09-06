@@ -1,0 +1,15 @@
+ERRAPP.LS      Robot Name ROBOT 06-SEP-23 13:17:00  
+
+1" 06-SEP-23 13:11:08 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+2" 06-SEP-23 13:10:46 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+3" 06-SEP-23 13:08:38 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+4" 06-SEP-23 13:08:18 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+5" 06-SEP-23 13:01:20 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000" 
+6" 16-AUG-23 13:24:48 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+7" 16-AUG-23 13:24:28 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+8" 16-AUG-23 13:19:08 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+9" 16-AUG-23 12:39:18 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000" 
+10" 16-AUG-23 01:56:16 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000" 
+11" 13-AUG-23 17:36:56 " ARC -121 Weld not performed(Sim mode)             " " WARN                          00000000" 
+12" 13-AUG-23 16:17:28 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000" 
+13" 13-AUG-23 15:19:38 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000" 

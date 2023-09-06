@@ -1,0 +1,30 @@
+                       TP Accounting
+
+F Number: F00000    
+VERSION : ArcTool              
+$VERSION: V9.10214      8/21/2020
+DATE:     16-AUG-23 13:09 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+ArcTool SetUp                        08            1           3
+S/W Install                          28            1           0
+Hints                          12:25:08            4          40
+Id:  381, 5                 02 08:18:44            5           4
+Home                                 36            2           4
+Weld Procedure                       06            2           9
+Position Reg                      05:46            4         137
+SELECT                            01:32            7          50
+EDIT                              52:12            7         446
+Frames                            05:32            2         193
+
+Full Menus:                 02 21:50:12 
+Quick Menus:                         00 
+
+MENU Popup:                                        4
+[ TYPE ] Pullup:                                   9
+
+Functions at COLD start
+
+Functions at CTRL start
+START (COLD)                                       1

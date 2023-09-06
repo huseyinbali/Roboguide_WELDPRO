@@ -1,0 +1,21 @@
+F Number: F00000    
+VERSION : ArcTool              
+$VERSION: V9.10214      8/21/2020
+DATE:     16-AUG-23 13:09 
+DCS Version: V4.2.11
+
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:         592251029            0
+  Time:13-AUG-23 15:19              None
+2 Base:        -1672622576            0
+  Time:13-AUG-23 15:19              None
+   Mastering:    336434605
+   Robot:       -427933804
+   Other:       -930978075
+3 Pos./Speed:  -1128030488            0
+  Time:13-AUG-23 15:19              None
+4 I/O connect: -1486176252            0
+  Time:13-AUG-23 15:19              None
+
